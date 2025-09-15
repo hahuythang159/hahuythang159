@@ -3,15 +3,15 @@
 I'm a passionate **Frontend Developer** with experience in building robust web applications. I specialize in creating responsive and interactive user interfaces while ensuring a seamless integration between frontend and backend.
 
 ### 🌱 Technologies & Tools
-- **Languages**: JavaScript, TypeScript, C#
-- **Frontend**: React.js, Next.js, HTML, CSS, Ant Design, Redux Toolkit
-- **Backend**: Express.js, ASP.Net Core, RESTful APIs, JWT Authentication
+- **Languages**: JavaScript(ES6), TypeScript, C#
+- **Frontend**: React.js, Next.js, HTML, CSS, Ant Design ,MUI (Material-UI), Redux Toolkit, Micro Frontend Architecture
+- **Backend**: Express.js, ASP.Net Core, RESTful APIs, API Gateway, JWT Authentication, Microservices Architecture
 - **Database**: MongoDB, SQL Server
-- **Tools**: Git, Docker, Postman, Visual Studio Code
+- **Tools**: Git, Docker, Postman, Visual Studio Code, Figma, Jest
 
 ### 📂 My Projects
 
-#### 📝 [Blog Platform](https://github.com/hahuythang159/blog-platform) (Feb 2025 - Now)
+#### 📝 [Blog Platform](https://github.com/hahuythang159/blog-platform) (Feb 2025 - Aug 2025 )
 A web application that allows users to create, manage, and share articles in the form of blogs. It enables users to express opinions, share knowledge, or write in-depth columns on various topics.
 - **My Role**: FullStack Developer (Frontend & Backend)
 - **Technologies**: Next.js, Express.js, TypeScript, Redux Toolkit, MongoDB, JWT
